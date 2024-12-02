@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_115" data-name="Ellipse 115" cx="13" cy="13" r="13" transform="translate(26 549)" fill="#111a45"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_95" data-name="Mask Group 95" transform="translate(-26 -549)" clip-path="url(#clip-path)">
+    <g id="_01-home" data-name="01-home" transform="translate(30.541 551.125)">
+      <g id="glyph" transform="translate(0 0)">
+        <path id="Path_1440" data-name="Path 1440" d="M11.554.206A8.468,8.468,0,0,0,3.1,8.665c0,2.266,1.373,5.175,4.08,8.648a46,46,0,0,0,4.021,4.5.518.518,0,0,0,.716,0,46,46,0,0,0,4.021-4.5c2.707-3.472,4.08-6.382,4.08-8.648A8.468,8.468,0,0,0,11.554.206Zm0,14.5A6.042,6.042,0,1,1,17.6,8.665,6.049,6.049,0,0,1,11.554,14.707Z" transform="translate(-3.095 -0.206)" fill="#111a45"/>
+      </g>
+    </g>
+    <text id="S" transform="translate(39 563)" fill="#111a45" font-size="9" font-family="Poppins-Regular, Poppins"><tspan x="-2" y="0">S</tspan></text>
+  </g>
+</svg>

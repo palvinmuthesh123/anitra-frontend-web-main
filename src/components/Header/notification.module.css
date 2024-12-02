@@ -1,0 +1,55 @@
+.containerBox {
+  width: 7px;
+  height: 7px;
+  padding: 2px;
+  color: #b1040e;
+  cursor: pointer;
+}
+.notificationNumber {
+  font-size: 8px !important;
+  color: #fff !important;
+}
+.heading {
+  font-size: 18px !important;
+  color: #000000 !important;
+}
+.divider {
+  font-size: 14px !important;
+  color: black;
+  margin-top: 5px !important;
+}
+.notificationContainer {
+  box-shadow: rgba(170, 180, 190, 0.3) 0px 4px 20px !important;
+  padding: 15px 10px !important;
+  border-radius: 5px !important;
+  background-color: #fff !important;
+  width: 350px !important;
+}
+.greenDot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+.notification {
+  font-size: 15px !important;
+  color: #b1040e !important;
+  margin: 0px !important;
+}
+.notificationSubHeading {
+  font-size: 13px !important;
+  color: #013047 !important;
+  margin-top: 5px !important;
+  /* margin: 0px !important; */
+  margin-bottom: 0px;
+}
+.notificationTime {
+  font-size: 13px !important;
+  color: #013047 !important;
+  margin: 0px !important;
+}
+
+.content {
+  position: absolute !important;
+  top: 18px !important;
+  right: 31px !important;
+}

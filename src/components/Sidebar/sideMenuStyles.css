@@ -1,0 +1,16 @@
+
+.sideMenu{
+    height: 85vh;
+    min-height: 71vh;
+    max-height: 78vh;
+    overflow-y: scroll;
+
+}
+
+@media screen and (max-width: 1280px) {
+  .sideMenu {
+    height: 65vh;
+    min-height: 45vh ;
+    max-height: 55vh ;
+  }
+}

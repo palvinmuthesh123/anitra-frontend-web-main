@@ -1,0 +1,18 @@
+export const Colors = {
+  white: "#FFFFFF",
+  headerColor: "#B1040E",
+  textColor: "#3F464F",
+  darkTextColor: "#111A45",
+  screenBg: "#F8F8F8",
+  lightGreen: "#CCF0E3",
+  lightGreen1: "#33C38E",
+  inputBackground: "#868AA0",
+  tableHEaderBg: "#ECECF0",
+  black: "#000",
+  lightRed: "#DC8D91",
+  disabledColor: "#BFBFBF",
+  darkGreen: "#0A8B19",
+  themeBtnBgColor: "#B1040E",
+  greyColor: "#00000014",
+  buttonThemeColor: "#B1040E",
+};

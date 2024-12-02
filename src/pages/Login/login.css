@@ -1,0 +1,39 @@
+.heading {
+  font-family: "Poppins-Medium";
+  color: #000000;
+  text-align: center;
+}
+.subHeading {
+  font-family: "Poppins-Medium";
+  font-size: 12px;
+  color: #000000;
+  font-weight: 600;
+  
+}
+.emailLogin {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #d0bcbc;
+  line-height: 0.1em;
+  font-family: "Poppins-Medium";
+  font-size: 12px;
+}
+.borderLine {
+  background: #fff;
+  padding: 0 10px;
+  font-family: "Poppins-Medium";
+  font-size: 12px;
+  font-weight: 600
+}
+.skipText{
+    font-family: 'MetropolisSemiBold';
+    color: #FA8842;
+    font-size: 12px;
+    text-align: center;
+    cursor: pointer;
+}
+.checkboxText{
+    font-family: 'Poppins-Regular';
+    font-size: 12px;
+    color: #000000;
+}

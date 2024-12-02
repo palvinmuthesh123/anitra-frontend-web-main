@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_159" data-name="Ellipse 159" cx="13" cy="13" r="13" transform="translate(26 549)" fill="#B1040E"/>
+    </clipPath>
+  </defs>
+  <g id="Group_494" data-name="Group 494" transform="translate(-26 -549)" clip-path="url(#clip-path)">
+    <g id="_01-home" data-name="01-home" transform="translate(31.268 552.059)">
+      <g id="glyph" transform="translate(0 0)">
+        <path id="Path_1663" data-name="Path 1663" d="M10.827.206A7.741,7.741,0,0,0,3.1,7.938c0,2.071,1.255,4.731,3.729,7.9A42.044,42.044,0,0,0,10.5,19.957a.473.473,0,0,0,.654,0,42.045,42.045,0,0,0,3.675-4.114c2.475-3.174,3.729-5.834,3.729-7.9A7.741,7.741,0,0,0,10.827.206Zm0,13.255A5.523,5.523,0,1,1,16.35,7.938,5.529,5.529,0,0,1,10.827,13.461Z" transform="translate(-3.095 -0.206)" fill="#B1040E"/>
+      </g>
+    </g>
+    <text id="c" transform="translate(39 562)" fill="#B1040E" font-size="9" font-family="Poppins-Regular, Poppins"><tspan x="-2" y="0">c</tspan></text>
+  </g>
+</svg>
